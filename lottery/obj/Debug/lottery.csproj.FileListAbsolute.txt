@@ -1,0 +1,12 @@
+D:\Work\windows\lottery\lottery\bin\Debug\lottery.exe.config
+D:\Work\windows\lottery\lottery\bin\Debug\lottery.exe
+D:\Work\windows\lottery\lottery\bin\Debug\lottery.pdb
+D:\Work\windows\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
+D:\Work\windows\lottery\lottery\obj\Debug\lottery.ExcelShow.resources
+D:\Work\windows\lottery\lottery\obj\Debug\lottery.Form1.resources
+D:\Work\windows\lottery\lottery\obj\Debug\lottery.Properties.Resources.resources
+D:\Work\windows\lottery\lottery\obj\Debug\lottery.csproj.GenerateResource.Cache
+D:\Work\windows\lottery\lottery\obj\Debug\lottery.csproj.CoreCompileInputs.cache
+D:\Work\windows\lottery\lottery\obj\Debug\lottery.exe
+D:\Work\windows\lottery\lottery\obj\Debug\lottery.pdb
+D:\Work\windows\lottery\lottery\obj\Debug\Lottery.InputPassword.resources
